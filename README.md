@@ -3,7 +3,6 @@ Embedded systems and electronics internship at SONATRACH, involving PCB design f
 As part of my engineering studies in Automatic Control and Systems Engineering, I had the opportunity to complete an internship at SONATRACH, where I explored embedded systems, electronics, and power electronics.
 
 One of the main projects I worked on was the design of a PCB for a smart home alarm system. The project involved integrating different sensors, including a smoke detector, a water leakage sensor, and an ultrasonic sensor, to create a system capable of monitoring potential hazards and improving home security.
-
 I worked on the PCB design using Eagle and also explored other design tools such as KiCad and EasyEDA. I additionally used MATLAB/Simulink and Proteus to explore electronic simulation and system analysis.
 
 Technical Skills & Tools:
