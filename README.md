@@ -6,12 +6,9 @@ One of the main projects I worked on was the design of a PCB for a smart home al
 
 I worked on the PCB design using Eagle and also explored other design tools such as KiCad and EasyEDA. I additionally used MATLAB/Simulink and Proteus to explore electronic simulation and system analysis.
 
-Technical Skills & Tools
-
+Technical Skills & Tools:
 This experience allowed me to develop my knowledge of embedded systems, electronic circuit design, PCB development, and power electronics.
-
 I gained experience with Eagle, KiCad, EasyEDA, MATLAB/Simulink, and Proteus, while learning more about sensor integration and the relationship between hardware and embedded technologies.
 
-My Interests
-
+My Interests:
 I am particularly interested in embedded systems, electronics, robotics, and intelligent hardware solutions. I enjoy designing electronic systems and exploring how sensors, microcontrollers, and software can work together to solve real-world problems.
